@@ -1,0 +1,20 @@
+ build/default/production/_ext/1498664333/main.d  \
+ build/default/production/_ext/1498664333/main.p1:  \
+ ../../source/main/main.c  \
+../../source/include/delay.h  \
+../../source/include/24c02.h  \
+../../source/include/handle_rs485.h  \
+../../source/include/handle_ic_card.h  \
+../../source/include/beep.h  \
+../../source/include/input.h  \
+../../source/include/timer.h  \
+../../source/include/uart.h  \
+../../source/include/test.h  \
+../../source/include/ds1302.h  \
+../../source/include/led.h  \
+../../source/include/mfrc500.h  \
+../../source/include/interrupt.h  \
+../../source/include/handle_floor.h  \
+../../source/include/handle_timer.h  \
+../../source/include/other.h  \
+../../source/include/handle_config.h 

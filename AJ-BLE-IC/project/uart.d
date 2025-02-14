@@ -1,0 +1,1 @@
+ uart.d  uart.p1:  D:/WORKproject/AJ-BLE-IC/source/driver/uart.c D:/WORKproject/AJ-BLE-IC/source/include/uart.h

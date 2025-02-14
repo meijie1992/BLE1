@@ -1,0 +1,1 @@
+ other.d  other.p1:  D:/WORKproject/AJ-BLE-IC/source/application/other.c
