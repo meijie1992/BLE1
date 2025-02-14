@@ -1,0 +1,1 @@
+ mfrc500.d  mfrc500.p1:  D:/WORKproject/AJ-BLE-IC/source/driver/mfrc500.c D:/WORKproject/AJ-BLE-IC/source/include/delay.h D:/WORKproject/AJ-BLE-IC/source/include/mfrc500.h D:/WORKproject/AJ-BLE-IC/source/include/uart.h

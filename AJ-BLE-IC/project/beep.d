@@ -1,0 +1,1 @@
+ beep.d  beep.p1:  D:/WORKproject/AJ-BLE-IC/source/driver/beep.c D:/WORKproject/AJ-BLE-IC/source/include/handle_ic_card.h D:/WORKproject/AJ-BLE-IC/source/include/delay.h D:/WORKproject/AJ-BLE-IC/source/include/beep.h

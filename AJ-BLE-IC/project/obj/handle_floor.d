@@ -1,0 +1,1 @@
+ handle_floor.d  handle_floor.p1:  D:/WORKproject/AJ-BLE-IC/source/application/handle_floor.c D:/WORKproject/AJ-BLE-IC/source/include/delay.h D:/WORKproject/AJ-BLE-IC/source/include/uart.h

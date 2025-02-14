@@ -1,0 +1,1 @@
+ ds1302.d  ds1302.p1:  D:/WORKproject/AJ-BLE-IC/source/driver/ds1302.c D:/WORKproject/AJ-BLE-IC/source/include/ds1302.h D:/WORKproject/AJ-BLE-IC/source/include/delay.h

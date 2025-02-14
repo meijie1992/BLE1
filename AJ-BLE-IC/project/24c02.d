@@ -1,0 +1,1 @@
+ 24c02.d  24c02.p1:  D:/WORKproject/AJ-BLE-IC/source/driver/24c02.c D:/WORKproject/AJ-BLE-IC/source/include/delay.h D:/WORKproject/AJ-BLE-IC/source/include/24c02.h
